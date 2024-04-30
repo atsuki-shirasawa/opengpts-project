@@ -1,0 +1,20 @@
+{
+    "folders": [
+        {
+            "name": "ROOT",
+            "path": "../"
+        },
+        {
+            "path": "../libs/opengpt-client",
+        },
+        {
+            "path": "../libs/streamlit-google-oauth"
+        },
+        {
+            "path": "../example/sample-chat-frontend-app"
+        },
+        {
+            "path": "../example/sample-slack-bot"
+        }
+    ]
+}
